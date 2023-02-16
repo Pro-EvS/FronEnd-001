@@ -1,0 +1,46 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing : border-box;
+    }
+    .primer {
+        margin: 10px;
+        text-aling: left;
+        font-family: Times;
+    }
+    
+    .h1 {
+            text-aling: center;
+            font-family: Arial;
+            margin: 50px 0px;
+            font-size: auto;
+    }
+    .container {
+        display: flex;
+     }
+     
+    .alin {
+        justify-content: left;
+        margin: 0px;
+    }
+    .form {
+        width: 15%;
+        height: 15%;
+        
+    }
+     img {
+         width:auto;
+         
+     }
+     .alinear {
+         width: 15%;
+         height: 15%;
+         margin: 15px;
+         
+     }
+     .al {
+         width: 25%;
+         height: 25%;
+         margin: 15px;
+     }
+  
